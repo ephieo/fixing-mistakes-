@@ -247,7 +247,7 @@ justify-content: space-around;
     /* display:inline-block; */
     display:flex;
     align-items: center;
-    background-image: url('img/hands.jpg');
+    background-image: url('hands.jpg');
     background-position:center;
     width:300px;  
     height:400px;
@@ -263,7 +263,7 @@ justify-content: space-around;
   .orangetwo{
     display:flex;
     align-items: center;
-    background-image: url('img/battle.jpg');
+    background-image: url('battle.jpg');
     background-position:center;
     width:300px;  
     height:400px;
@@ -277,7 +277,7 @@ justify-content: space-around;
   .orangethree{
     display:flex;
     align-items: center;
-    background-image: url('img/city.jpg');
+    background-image: url('city.jpg');
     background-position: center;
     /* background:#cbff7c; */
     width:300px;  
